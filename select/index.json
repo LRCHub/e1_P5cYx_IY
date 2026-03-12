@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "KANASHIBARI",
+  "base_artist": "Radwimps",
+  "createdAt": "2026-03-12T02:02:35.048670Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "KANASHIBARI (feat. ao)",
+      "artist": "RADWIMPS feat. ao",
+      "has_synced": true,
+      "path": "select/01_KANASHIBARI_(feat._ao)_RADWIMPS_feat._ao.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "KANASHIBARI",
+      "artist": "Radwimps",
+      "has_synced": true,
+      "path": "select/02_KANASHIBARI_Radwimps.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sayonara No Kanashibari - Membeku Karena Selamat Tinggal",
+      "artist": "JKT48",
+      "has_synced": true,
+      "path": "select/03_Sayonara_No_Kanashibari_-_Membeku_Karena_Selamat_Tinggal_JKT48.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "KANASHIBARI (feat. ao)",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/04_KANASHIBARI_(feat._ao)_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ghost in the Mirror (Kanashibari Part 4)",
+      "artist": "Sabbat",
+      "has_synced": false,
+      "path": "select/05_Ghost_in_the_Mirror_(Kanashibari_Part_4)_Sabbat.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hellhouse (Kanashibari Part 3)",
+      "artist": "Sabbat",
+      "has_synced": false,
+      "path": "select/06_Hellhouse_(Kanashibari_Part_3)_Sabbat.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "KANASHIBARI",
+      "artist": "RADWIMPS feat. ao",
+      "has_synced": true,
+      "path": "select/07_KANASHIBARI_RADWIMPS_feat._ao.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Kanashibari",
+      "artist": "Within Destruction",
+      "has_synced": true,
+      "path": "select/08_Kanashibari_Within_Destruction.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Kanashibari",
+      "artist": "Come to Dolly",
+      "has_synced": false,
+      "path": "select/09_Kanashibari_Come_to_Dolly.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "KANASHIBARI",
+      "artist": "RADWIMPS, ao",
+      "has_synced": true,
+      "path": "select/10_KANASHIBARI_RADWIMPS,_ao.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "KANASHIBARI (BACK TO THE LIVE HOUSE TOUR 2023 Live at Zepp Haneda(TOKYO) [2023/7/4]) [feat. ao]",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/11_KANASHIBARI_(BACK_TO_THE_LIVE_HOUSE_TOUR_2023_Live_at_Zepp_Haneda(TOKYO)_[2023_7_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "KANASHIBARI (BACK TO THE LIVE HOUSE TOUR 2023 Live at Zepp Haneda",
+      "artist": "RADWIMPS feat. ao",
+      "has_synced": true,
+      "path": "select/12_KANASHIBARI_(BACK_TO_THE_LIVE_HOUSE_TOUR_2023_Live_at_Zepp_Haneda_RADWIMPS_feat._ao.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "KANASHIBARI (BACK TO THE LIVE HOUSE TOUR 2023 Live at Zepp Haneda(TOKYO) [2023/7/4])",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/13_KANASHIBARI_(BACK_TO_THE_LIVE_HOUSE_TOUR_2023_Live_at_Zepp_Haneda(TOKYO)_[2023_7_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Kanashibari",
+      "artist": "Noki Mori",
+      "has_synced": false,
+      "path": "select/14_Kanashibari_Noki_Mori.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "KANASHIBARI (feat. ao) [BACK TO THE LIVE HOUSE TOUR 2023 Live at Zepp Haneda(TOKYO) [2023/7/4]]\u001f「www.jpopsingles.eu」",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/15_KANASHIBARI_(feat._ao)_[BACK_TO_THE_LIVE_HOUSE_TOUR_2023_Live_at_Zepp_Haneda(TOK_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Sayonara no Kanashibari",
+      "artist": "AKB48 Team B",
+      "has_synced": true,
+      "path": "select/16_Sayonara_no_Kanashibari_AKB48_Team_B.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "KANASHIBARI",
+      "artist": "RADWIMPS, ao",
+      "has_synced": false,
+      "path": "select/pl_01_KANASHIBARI_RADWIMPS,_ao.txt"
+    }
+  ]
+}
